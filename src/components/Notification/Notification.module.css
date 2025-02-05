@@ -1,0 +1,6 @@
+/* styles/Notification.module.css */
+.notification {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+}

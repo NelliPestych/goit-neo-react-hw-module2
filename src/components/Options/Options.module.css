@@ -1,0 +1,18 @@
+/* styles/Options.module.css */
+.options {
+    border: 2px solid pink;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: lightgray;
+}
